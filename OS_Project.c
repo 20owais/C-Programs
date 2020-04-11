@@ -1,3 +1,4 @@
+//Concept of Deadlock
 #include<stdio.h>
 struct proc
 {
